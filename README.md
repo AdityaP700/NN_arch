@@ -165,16 +165,3 @@ This project builds intuition for:
 * NumPy
 * Google Colab
 
----
-
-## ✨ Final Note
-
-This project marks the transition from:
-
-> “Using neural networks”
-> to
-> **“Understanding how they actually work”**
-
----
-
-If you found this useful or have feedback, feel free to connect!
